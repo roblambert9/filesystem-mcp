@@ -1,0 +1,8 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "name": "filesystem-mcp",
+  "description": "Sandboxed filesystem access MCP server with path containment, audit logging, and autonomous x402 pay-per-call rails.",
+  "maintainers": [
+    "roblambert9"
+  ]
+}

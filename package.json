@@ -1,0 +1,25 @@
+{
+  "name": "@roblambert9/filesystem-mcp",
+  "version": "1.0.0",
+  "description": "Sandboxed filesystem access MCP server with path containment, audit logging, and autonomous x402 pay-per-call rails. Wrapped with @monetize x402 rails.",
+  "main": "server.py",
+  "bin": {
+    "filesystem-mcp": "server.py"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "@monetize",
+    "x402",
+    "solana",
+    "usdc",
+    "ai-agents",
+    "nanoempire"
+  ],
+  "author": "Rob Lambert <roblambert9@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roblambert9/filesystem-mcp.git"
+  }
+}
